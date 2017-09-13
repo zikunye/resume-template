@@ -10,10 +10,10 @@ sass:
 
 # Resume settings
 resume_avatar:                  "true"
-resume_name:                    "Homer J. Simpson"
-resume_title:                   "Nuclear Safety Inspector"
-resume_contact_email:           "homerjsimpson@youremailaddress.com"
-resume_contact_telephone:       "555-7334"
+resume_name:                    "Zikun Ye"
+resume_title:                   "Senior Student"
+resume_contact_email:           "zikunye@sjtu.edu.cn"
+resume_contact_telephone:       "+86 15800789503"
 resume_contact_address:         "742 Evergreen Terrace, Springfield"
 resume_header_contact_info: "742 Evergreen Terrace, Springfield | 555-7334 | homerjsimpson@youremailaddress.com"
 resume_header_intro: "<p>This is the executive summary. You should write a few brief, concise, and meaningful sentences about yourself from a professional context, and your immediate career goals. Make the length appropriate for your needs, but K.I.S.S.</p>"
@@ -22,7 +22,7 @@ resume_header_intro: "<p>This is the executive summary. You should write a few b
 # "no" to display an "I'm not looking for work" message,
 # or remove the resume_looking_for_work option entirely
 # to leave blank
-resume_looking_for_work:        "yes"
+resume_looking_for_work:        "no"
 
 # Decide which sections to use
 # comment out to hide
@@ -45,7 +45,7 @@ resume_social_links:
   resume_linkedin_url:          "https://www.linkedin.com/in/joelglovier"
   # resume_instagram_url:         "insert your Instagram URL here"
   resume_website_url:           "http://joelglovier.com"
-resume_print_social_links:      true
+resume_print_social_links:      false
 
 # Design settings
 resume_theme:                   default
